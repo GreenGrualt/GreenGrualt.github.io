@@ -1,6 +1,5 @@
 export default [
 { href: './html/Buckshot Roulette/index.html', imgSrc: 'buckshot roulette.jpeg', name: 'Buckshot Roulette' , 'page': 5, 'id': 763 },
-{ href: './html/Like a king/index.html', imgSrc: 'like a king.jpeg', name: 'Like a king' , 'page': 5, 'id': 910 },
 { href: './html/Killer/index.html', imgSrc: 'Killer.jpg', name: 'Killer' , 'page': 5, 'id': 901 },
 { href: './html/Jolly world/index.html', imgSrc: 'jolly world.jpeg', name: 'Jolly world' , 'page': 5, 'id': 893 },
 { href: './html/Jelly Bots/index.html', imgSrc: 'jelly bots.jpeg', name: 'Jelly Bots' , 'page': 5, 'id': 891 },
