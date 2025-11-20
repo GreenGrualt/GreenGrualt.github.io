@@ -36,7 +36,7 @@ export function loadskin() {
         createBasicPopup("Eccrine Sweat Gland", "Eccrine sweat glands are distributed across the body and are particularly abundant on the palms of the hands, soles of the feet, and forehead. They produce a watery sweat that helps regulate body temperature through evaporation, contributing to cooling during physical exertion or in response to heat.");
     }, 0.25);
     
-    createSphereBtn(5.893215560417568, -0.6456544535072455, 3.796551753469076, () => {
+    createSphereBtn(5.893215560417568, -0.7156544535072455, 3.796551753469076, () => {
         createBasicPopup("Hair Follicle", "A hair follicle is a structure within the skin that produces hair. It extends from the surface of the skin into the dermis and sometimes into the subcutaneous layer. Surrounding each hair follicle are sebaceous glands, which secrete an oily substance called sebum that lubricates the hair and skin.");
         let surfaceHairsSelected = true
     }, 0.25);
