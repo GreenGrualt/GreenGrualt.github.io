@@ -1,0 +1,11 @@
+/* Full-page white overlay that covers everything until it's hidden by the script. */
+#site-overlay {
+  position: fixed;
+  inset: 0;
+  background: #ffffff;
+  z-index: 2147483647;
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
