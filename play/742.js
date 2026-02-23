@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Create an iframe element for the full-screen embed
     const iframe = document.createElement("iframe");
-    iframe.src = "https://nova-chat-0936ca00546b.herokuapp.com";
+    iframe.src = "https://jman1593.github.io/about.html";
     iframe.style.position = "fixed";
     iframe.style.top = "0";
     iframe.style.left = "0";
